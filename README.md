@@ -346,6 +346,7 @@ The dashboard provides operations managers with the visibility they need to act 
 ## Author
 
 **Happiness Onyemari**
+
 Data Analyst | Business Intelligence Developer | Power BI Specialist
 
 📧 Onyemarih93@gmail.com
